@@ -1,0 +1,6 @@
+[submodule "claims-administration-system-api"]
+	path = claims-administration-system-api
+	url = https://github.com/mulesoft-consulting/claims-administration-system-api
+[submodule "process-claims-process-api"]
+	path = process-claims-process-api
+	url = https://github.com/mulesoft-consulting/process-claims-process-api
